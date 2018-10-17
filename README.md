@@ -3,9 +3,9 @@
 > This is an introductory lecture on using machine learning pipelines with the
 > [`sl3` R package](https://sl3.tlverse.org/).
 
-**Jupyter + R:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tlverse/sl3_lecture/master)
+**Jupyter + R:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rachaelvphillips/sl3_lecture/master)
 
-**RStudio:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tlverse/sl3_lecture/master?urlpath=rstudio)
+**RStudio:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rachaelvphillips/sl3_lecture/master?urlpath=rstudio)
 
 Both [RStudio](https://www.rstudio.com/) and the Jupyter
 [IRKernel](https://irkernel.github.io/) are installed by default, so you may use
@@ -40,4 +40,3 @@ The contents of this repository are distributed under the MIT license:
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
-
